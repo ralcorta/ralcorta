@@ -1,4 +1,4 @@
-<h2> Hi there 👋, I'm Rodrigo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi there 👋, I'm Rodrigo! <img src="https://media.giphy.com/media/tiog1GnPFVYjK3oBnz/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="230">
 <!-- <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230"> -->
 <p><img src="https://github.com/ralcorta/ralcorta/blob/main/avatar.png" width="30"><em>Software Enginner </br>Developer Consultant at <a href="https://www.valiulab.com">Valiu Lab</a></em></p>
