@@ -17,7 +17,7 @@ const developer = {
   position: 'Software Engineer',
   teams: [ 'Valiulab', 'Bayer' ],
   code: [ 'Javascript', 'Typescript', 'HTML', 'CSS', 'C#', 'PHP', 'C', 'GO' ],
-  tools: [ 'Node', 'NestJs', 'React', 'Redux', 'Angular', 'Jest', 'Docker', 'Git' ],
+  tools: [ 'Node', 'NestJs', 'React', 'Redux', 'Angular', 'Jest', 'Docker' ],
   architecture: [ 'microservices', 'event-driven', 'design system pattern' ],
 }
 ```
