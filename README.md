@@ -13,12 +13,12 @@
 const developer = {
   fullname: 'Rodrigo Victor Alcorta',
   country: 'Argentina',
-  Lenguages: ['ES', 'EN'],
+  Lenguages: [ 'ES', 'EN' ],
   position: 'Software Engineer',
   teams: [ 'Valiulab', 'Bayer' ],
-  code: [ 'Javascript', 'Typescript', 'HTML', 'CSS', 'C#', 'PHP', 'C', 'GO'],
+  code: [ 'Javascript', 'Typescript', 'HTML', 'CSS', 'C#', 'PHP', 'C', 'GO' ],
   tools: [ 'Node', 'NestJs', 'React', 'Redux', 'Angular', 'Jest', 'Docker', 'Git' ],
-  architecture: [ 'microservices', 'event-driven', 'design system pattern'],
+  architecture: [ 'microservices', 'event-driven', 'design system pattern' ],
 }
 ```
 
