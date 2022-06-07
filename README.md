@@ -22,4 +22,12 @@ const developer = {
 }
 ```
 
+
+👇 Write in your terminal to connect with me 👇
+
+```bash
+npx ralcorta
+```
+
+
 ---
